@@ -1,0 +1,27 @@
+body {
+	background: white;
+	font-family: "Times New Roman", arial, sans-serif;
+	font-size: 11pt;
+	margin: 0 0 0 0;
+}
+
+h1 {
+	font-size:20pt;
+}
+
+.bigger {
+	font-size:16pt;
+}
+
+.break
+{ 
+page-break-after: always
+}
+
+noscript {
+	display: none;
+}
+
+a {
+	text-decoration:underline;
+}
